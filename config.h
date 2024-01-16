@@ -14,7 +14,7 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* default message */
-static const char * message = "Fuck windows. Fuck apple. Linux rules.";
+static const char * message = "The way you do anything, is the way you do everything.";
 
 /* text color */
 static const char * text_color = "#ffffff";
